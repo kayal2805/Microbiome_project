@@ -373,25 +373,6 @@ The gill microbiome of medaka fish changed clearly under osmotic stress. Freshwa
 
 ---
 
-## Presentation Files
-
-A 10-minute undergraduate-friendly presentation was prepared with the important plots and key results.
-
-Suggested slide order:
-
-1. Title
-2. Background
-3. Dataset and study design
-4. Bioinformatics workflow
-5. Alpha diversity
-6. Microbial distribution
-7. Beta diversity and PERMANOVA
-8. Genetic diversity using COI tree
-9. Integrated interpretation
-10. Conclusion and thank you
-
----
-
 ## Author
 
 Prepared as an undergraduate-friendly bioinformatics project on microbial and genetic diversity of medaka fish under osmotic stress.
